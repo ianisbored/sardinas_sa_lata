@@ -1,3 +1,18 @@
+#let secrets = (
+  brunoMars: "brunoMars",
+  nutriboostDunkins: "pepsiPaloma",
+  rapunzel: "rapunzel",
+  sebaceousGland: "sebaceousGland",
+  ariTech: "ariTech",
+  tathrianaRockstar: "tathrianaRockstar",
+  ser: "ser",
+  ins1: "[REDACTED]",
+  ins2: "[REDACTED]",
+  sec: "sec",
+)
+
+#import "secrets.typ": secrets
+
 #let margin_top = 1in
 #let margin_bottom = 1in
 #let margin_left = 1.25in
@@ -18,7 +33,7 @@ header: [
     #place(
       top + center, 
       dy: 0.82in,
-      text(size: 11pt, font: "Cambria", strong("PRES. SERGIO OSMEÑA SR. HIGH SCHOOL"))
+      text(size: 11pt, font: "Cambria", strong(secrets.ins1))
     )
   ],
 
@@ -46,9 +61,9 @@ background: {
     1.8cm,
     auto, // in a partial fulfillment
     1.9cm,
-    auto, // ian claudio
+    auto,
     2.3cm,
-    auto, // stem 11 a fdm
+    auto,
     0.5in,
     auto, 
     0.5in,
@@ -73,7 +88,7 @@ background: {
         #text(size: 12pt)[A Qualitative Research] \
         #text(size: 12pt)[Presented by the Faculty of] \
         #text(size: 12pt)[Science, Technology, Engineering and Mathematics] \ 
-        #text(size: 12pt)[President Sergio Osmeña Sr. High School] \ 
+        #text(size: 12pt)[#secrets.ins2] \ 
         #text(size: 12pt)[Senior High School Department] \ 
         #text(size: 12pt)[School Year 2025-2026] \ 
       ]
@@ -94,12 +109,23 @@ background: {
   [
       #align(center)[
         #set par(leading:0.65em)
-        #text(weight: "bold", size: 12pt)[IAN DRAKE, CLAUDIO, P.] \
-        #text(weight: "bold", size: 12pt)[PRINCESS LYNNEZ, BALISI, L.] \
-        #text(weight: "bold", size: 12pt)[GERALDINE, HERNANDEZ, J.] \
-        #text(weight: "bold", size: 12pt)[MARY GRACE, LIBRADILLA, D.] \
-        #text(weight: "bold", size: 12pt)[ARIANNA, MANLAGNIT, A.] \
-        #text(weight: "bold", size: 12pt)[MARY JANE, MONDIGO, V.] \
+        #text(weight: "bold", size: 12pt)[#secrets.brunoMars] \
+        #text(weight: "bold", size: 12pt)[#secrets.nutriboostDunkins] \
+        #text(weight: "bold", size: 12pt)[#secrets.rapunzel] \
+        #text(weight: "bold", size: 12pt)[#secrets.sebaceousGland] \
+        #text(weight: "bold", size: 12pt)[#secrets.ariTech] \
+        #text(weight: "bold", size: 12pt)[#secrets.tathrianaRockstar] \
+      ]
+
+
+  ],
+
+  [],
+
+  [
+    #align(center)[
+      #set par(leading:3em)
+      #text(size: 12pt)[#secrets.sec] \
       ]
   ],
 
@@ -108,16 +134,7 @@ background: {
   [
     #align(center)[
       #set par(leading:3em)
-      #text(size: 12pt)[STEM 11 – A (FE DEL MUNDO)] \
-      ]
-  ],
-
-  [],
-
-  [
-    #align(center)[
-      #set par(leading:3em)
-      #text(size: 12pt)[MR. JOHN RUDOLF D. CATALAN, LPT] \
+      #text(size: 12pt)[#secrets.ser] \
       ]
   ],
 
