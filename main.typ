@@ -431,11 +431,13 @@ The interviews will be conducted along Juan Luna Street The researchers will arr
 
 The participants of this study will be selected using purposive stratified sampling
 
-The participants of this study will include 6 commuters which are divided into two: student commuters from Pres. Sergio Osmeña Highschool, Florentino Torres Highschool, St. Joseph school and normal commuters, such as working adults, senior citizens, and regular commuters along the Gagalangin-Divisoria route. Stratified purposive sampling will be used to select participants who meet the following criteria:
+The participants of this study will include 6 commuters which are divided into two: student commuters from Pres. Sergio Osmeña Highschool, Florentino Torres Highschool, St. Joseph school and normal commuters, such as working adults, senior citizens, and regular commuters along the Gagalangin-Divisoria route. Stratified purposive sampling will be used to select participants who meet the following criteria: 
 
-1. Must be a student or a daily commuter that uses a jeepney as their primary mode of transportation.
-2.	Must travel along the Gagalangin-Divisoria route. 
-3.	Must be willing to share their commuting experience in an interview. 
+First, they must be a student or a regular commuter that uses a jeepney as their primary mode of transportation.
+
+Second, they must regularly travel along the Gagalangin-Divisoria route. 
+
+Lastly, they must be willing to share their commuting experience in an interview. 
 
 #pagebreak()
 
