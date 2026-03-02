@@ -449,52 +449,50 @@ Sample questions will include:
 
 #pagebreak()
 
-#table(
-  columns: (170pt, 1fr), 
-  inset: 10pt,
-  stroke: 0.5pt + gray,
-  fill: (col, row) => if row == 0 { luma(230) },
-  table.header([*SOP*], [*Interview Question*]),
+#block({
+  set par(leading: 0.65em) 
+  table(
+    columns: (170pt, 1fr), 
+    inset: 8pt,
+    stroke: (x, y) => (
+      left: if x > 0 { 0.5pt + gray } else { 0pt },
+      top: if y > 0 { 0.5pt + gray } else { 0pt },
+      right: 0pt,
+      bottom: 0pt,
+    ),
+    fill: (col, row) => if row == 0 { luma(230) },
+    align: (left + horizon, left),
+    table.header([*SOP*], [*Question*]),
   
-  [What is the daily routine of jeepney commuters in Gagalangin?], 
-  [
-    - What's your typical morning commute from Gagalangin?
-    - What time do you typically leave home?
-    - How do you prepare for the commute ahead?
-  ],
+    [What is the daily routine of jeepney commuters in Gagalangin?], 
+    [
+      - What's your typical morning commute from Gagalangin?
+      - What time do you typically leave home?
+      - How do you prepare for the commute ahead?
+    ],
 
-  [ Why do commuters still use jeepneys despite problems surrounding traffic such as congestion and road rage?], 
-  [
-    - Why do you choose a jeepney over other other, modes like Grab or Angkas?
-    - Do you feel the fare is worth the traffic, heat, and other inconveniences of jeepneys?
-    - What factor/s are in jeepneys that are not in any other modes of transportation?
-  ]
-)
+    [ Why do commuters still use jeepneys despite problems surrounding traffic such as congestion and road rage?], 
+    [
+      - Why do you choose a jeepney over other other, modes like Grab or Angkas?
+      - Do you feel the fare is worth the traffic, heat, and other inconveniences of jeepneys?
+      - What factor/s are in jeepneys that are not in any other modes of transportation?
+    ],
 
-#pagebreak()
+    [How do jeepney commuters in Gagalangin cope with challenges related to accessibility, affordability, and efficiency in their daily commute?], 
+    [
+      - What do you do to distract yourself from the inconveniences of the jeepney?
+      - How do you adjust your daily budget for sudden price hikes or protests, forcing you to take other forms of transportation?
+      - How do you adjust the time you leave to ensure you'll still have a seat?
+    ],
 
-#table(
-  columns: (170pt, 1fr), 
-  inset: 10pt,
-  stroke: 0.5pt + gray,
-  fill: (col, row) => if row == 0 { luma(230) },
-  table.header([*SOP*], [*Interview Question*]),
-
-  [How do jeepney commuters in Gagalangin cope with challenges related to accessibility, affordability, and efficiency in their daily commute?], 
-  [
-    - What do you do to distract yourself from the inconveniences of the jeepney?
-    - How do you adjust your daily budget for sudden price hikes or protests, forcing you to take other forms of transportation?
-    - How do you adjust the time you leave to ensure you'll still have a seat?
-  ],
-
-  [What are the potential interventions and infrastructure to improve public jeepney commuting?], 
-  [
-    - Do you think a centralized management system (like a bus carousel) would work for jeepneys in Tondo?
-    - What's the first thing you would change if you were the one in charge of the transport office? 
-    - What infrastructure do you think would make travel safer, especially at night?
-  ]
-)
-
+    [What are the potential interventions and infrastructure to improve public jeepney commuting?], 
+    [
+      - Do you think a centralized management system (like a bus carousel) would work for jeepneys in Tondo?
+      - What's the first thing you would change if you were the one in charge of the transport office? 
+      - What infrastructure do you think would make travel safer, especially at night?
+    ]
+  )
+})
 
 #pagebreak()
 
