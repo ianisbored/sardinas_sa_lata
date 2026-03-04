@@ -1,0 +1,20 @@
+{
+  "promptDelete": false,
+  "readableLineLength": true,
+  "strictLineBreaks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "tabSize": 4,
+  "vimMode": true,
+  "attachmentFolderPath": "./",
+  "openBehavior": "",
+  "newFileLocation": "current"
+}

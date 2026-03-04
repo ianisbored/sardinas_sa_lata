@@ -1,0 +1,458 @@
+:root {
+    /* hex values, also adjust RGB values. */
+    --black1: #000000; 
+    --black2: #1d2021;
+    --black3: #282828;
+    --black4: #3c3836;
+    
+    --black5: #504945;
+    --black6: #665d54;
+    --black7: #7e6f64;
+    --black8: #928374;    
+
+    --white1: #fbf1c7;
+    --white2: #ebdbb2;
+    --white3: #d5c4a1;
+    --white4: #bdae93;
+    --white5: #a89984;
+
+    --red: #cc241d;
+    --lightRed: #fb4c38;
+    --darkRed: #9d0006;
+    
+    --orange: #d65d01;
+    --lightOrange: #fe8019;
+    --darkOrange: #af3a03;
+    
+    --yellow: #dfab01;
+    --lightYellow: #fabd2f;
+    --darkYellow: #b57614;
+    
+    --green: #98971a;
+    --lightGreen: #b8bb26;
+    --darkGreen: #79740e;
+    
+    --blue: #458588;
+    --lightBlue: #83a598;
+    --darkBlue: #076678;
+    
+    --cyan: #689d6a;
+    --lightCyan: #8ec07c;
+    --darkCyan: #427b58;
+    
+    --purple: #b16286;
+    --lightPurple: #d3869b;
+    --darkPurple: #8f3f71;
+    
+    --brown: #d9aa8c;
+    --lightBrown: #af714a;
+    --darkBrown: #7b4425;
+    
+    --pink: #e8705f;
+    --lightPink: #f89a8a;
+    --darkPink: #d14d41;
+
+    /* RGB values, adjust when changing hex values. */
+    --black1RGB: 0, 0, 0; 
+    --black2RGB: 29, 32, 33;
+    --black3RGB: 40, 40, 40;
+    --black4RGB: 60, 56, 54;
+
+    --black5RGB: 80, 73, 69;
+    --black6RGB: 102, 93, 84;
+    --black7RGB: 126, 111, 100;
+    --black8RGB: 146, 131, 116;    
+
+    --white1RGB: 251, 241, 199;
+    --white2RGB: 235, 219, 178;
+    --white3RGB: 213, 196, 161;
+    --white4RGB: 189, 174, 147;
+    --white5RGB: 168, 153, 132;
+
+    --redRGB: 204, 36, 29;
+    --lightRedRGB: 251, 76, 56;
+    --darkRedRGB: 157, 0, 6;
+    
+    --orangeRGB: 214, 93, 1;
+    --lightOrangeRGB: 254, 128, 25;
+    --darkOrangeRGB: 175, 58, 3;
+    
+    --yellowRGB: 223, 171, 1;
+    --lightYellowRGB: 250, 189, 47;
+    --darkYellowRGB: 181, 118, 20;
+    
+    --greenRGB: 152, 151, 26;
+    --lightGreenRGB: 184, 187, 38;
+    --darkGreenRGB: 121, 116, 14;
+    
+    --blueRGB: 69, 133, 136;
+    --lightBlueRGB: 131, 165, 152;
+    --darkBlueRGB: 7, 102, 120;
+    
+    --cyanRGB: 104, 157, 106;
+    --lightCyanRGB: 142, 192, 124;
+    --darkCyanRGB: 66, 123, 88;
+    
+    --purpleRGB: 177, 98, 134;
+    --lightPurpleRGB: 211, 134, 155;
+    --darkPurpleRGB: 143, 63, 113;
+    
+    --brownRGB: 217, 170, 140;
+    --lightBrownRGB: 175, 113, 74;
+    --darkBrownRGB: 123, 68, 37;
+    
+    --pinkRGB: 232, 112, 95;
+    --lightPinkRGB: 248, 154, 138;
+    --darkPinkRGB: 209, 77, 65;
+}
+
+body {
+    /* accent override */
+    --accent-h: 46; 
+    --accent-s: 99%;
+    --accent-l: 44%;
+
+    /* link and tag cleanup */
+    --link-decoration: none;
+    --link-decoration-hover: none;
+    --link-external-decoration: none;
+    --link-external-decoration-hover: none !important;
+
+    --tag-decoration: none;
+    --tag-decoration-hover: none !important;
+
+    /* checkboxes */
+    --checkbox-radius: 0;
+    --checkbox-color: var(--white5);
+    --checkbox-border-color: var(--white5);
+    --checkbox-done-color: rgba(var(--white5RGB), 0.5);
+}
+
+.theme-dark {
+    /* definitions for canvas colors */
+    --color-red: var(--red);
+    --color-orange: var(--orange);
+    --color-yellow: var(--yellow);
+    --color-green: var(--green);
+    --color-blue: var(--blue);
+    --color-cyan: var(--cyan);
+    --color-purple: var(--purple);
+    --color-pink: var(--pink);
+    --color-red-rgb: var(--redRGB);
+    --color-orange-rgb: var(--orangeRGB);
+    --color-yellow-rgb: var(--yellowRGB);
+    --color-green-rgb: var(--greenRGB);
+    --color-blue-rgb: var(--blueRGB);
+    --color-cyan-rgb: var(--cyanRGB);
+    --color-purple-rgb: var(--purpleRGB);
+    --color-pink-rgb: var(--brightPinkRGB); 
+
+    --background-primary: var(--black1); /* main editor and settings color */
+    --background-primary-alt: var(--black1); /* keyboard shortcut and code block backgrounds */
+    --background-secondary: var(--black1); /* sidebar background color */
+    --background-secondary-alt: var(--black1); /* focused top bar color*/
+    --background-modifier-border: var(--black1); /* border color, includes the divider and tables  */
+
+    --text-normal: var(--white1); /* main text color */
+    --text-faint: var(--white5); /* text in check boxes, vault switcher, and comments*/
+    --text-muted: var(--white5); /* icon color, toolbar, properties, checkboxes, superscripts, footnote number, programming language indicator */
+    --text-on-accent: var(--black1); /* menu selected text color*/
+    --text-on-accent-inverted: var(--white1); /* self explanatory */
+    --text-error: var(--red);
+    --text-warning: var(--orange);
+    --text-success: var(--green);
+    --text-accent: var(--interactive-accent);
+
+    /* heading color + weight */
+    --h1-color: var(--interactive-accent);
+    --h2-color: var(--interactive-accent);
+    --h3-color: var(--interactive-accent);
+    --h4-color: var(--interactive-accent);
+    --h5-color: var(--interactive-accent);
+    --h6-color: var(--interactive-accent);
+
+    --h2-weight: 700;
+    --h3-weight: 700;
+    --h4-weight: 700;
+    --h5-weight: 700;
+    --h6-weight: 700;
+
+    --h5-variant: small-caps;
+    --h6-variant: small-caps;
+
+    /* highlights */
+    --text-highlight-bg: var(--interactive-accent);
+    --text-highlight-fg: var(--black1);
+
+    --inline-title-color: var(--interactive-accent); /* title name color */
+
+    --bold-color: var(--interactive-accent); /* self explanatory */
+    --italic-color: var(--interactive-accent); /* self explanatory */
+
+    --checklist-done-color: rgba(var(--white5RGB), 0.5); 
+
+    /* tables */
+    --table-border-color: transparent;
+    --table-selection-border-width: 1px;
+    --table-selection-border-radius: 0px;
+
+    --text-selection: var(--black3); /* self explanatory */
+
+    /* code blocks */
+    --code-normal: var(--white1);
+    --code-background: var(--black1);
+    --code-comment: var(--text-faint);
+
+    /* icon colors */
+    --icon-color-hover: var(--interactive-accent); 
+    --icon-color-focused: var(--interactive-accent);
+
+    /* navigation page */
+    --nav-item-color-hover: var(--interactive-accent);
+    --nav-item-color-active: var(--interactive-accent);
+
+    /* callouts */
+    --callout-bug: var(--redRGB);
+    --callout-error: var(--redRGB);
+    --callout-fail: var(--redRGB);
+    --callout-warning: var(--orangeRGB);
+    --callout-question: var(--yellowRGB);
+    --callout-success: var(--greenRGB);
+    --callout-default: var(--blueRGB);
+    --callout-info: var(--blueRGB);
+    --callout-todo: var(--blueRGB);
+    --callout-note: var(--blueRGB);
+    --callout-important: var(--cyanRGB);
+    --callout-summary: var(--cyanRGB);
+    --callout-tip: var(--cyanRGB);
+    --callout-example: var(--purpleRGB);
+    --callout-quote: var(--black8RGB);
+
+    /* bullet and number lists */
+    --list-marker-color: rgba(var(--white5RGB), 0.5);
+
+    --caret-color: var(--interactive-accent); /* that blinking that show where you'll type */
+}
+
+.theme-light {
+    /* definitions for canvas colors */
+    --color-red: var(--red);
+    --color-orange: var(--orange);
+    --color-yellow: var(--yellow);
+    --color-green: var(--green);
+    --color-blue: var(--blue);
+    --color-cyan: var(--cyan);
+    --color-purple: var(--purple);
+    --color-pink: var(--pink);
+    --color-red-rgb: var(--redRGB);
+    --color-orange-rgb: var(--orangeRGB);
+    --color-yellow-rgb: var(--yellowRGB);
+    --color-green-rgb: var(--greenRGB);
+    --color-blue-rgb: var(--blueRGB);
+    --color-cyan-rgb: var(--cyanRGB);
+    --color-purple-rgb: var(--purpleRGB);
+    --color-pink-rgb: var(--brightPinkRGB); 
+
+    --background-primary: var(--white1); /* main editor and settings color */
+    --background-primary-alt: var(--white1); /* keyboard shortcut and code block backgrounds */
+    --background-secondary: var(--white1); /* sidebar background color */
+    --background-secondary-alt: var(--white1); /* focused top bar color*/
+    --background-modifier-border: var(--white1); /* border color, includes the divider and tables  */
+
+    --text-normal: var(--black1); /* main text color */
+    --text-faint: var(--black3); /* text in check boxes, vault switcher, and comments*/
+    --text-muted: var(--black3); /* icon color, toolbar, properties, checkboxes, superscripts, footnote number, programming language indicator */
+    --text-on-accent: var(--black1); /* menu selected text color*/
+    --text-on-accent-inverted: var(--white1); /* self explanatory */
+    --text-error: var(--red);
+    --text-warning: var(--orange);
+    --text-success: var(--green);
+    --text-accent: var(--interactive-accent);
+
+    /* heading color + weight */
+    --h1-color: var(--interactive-accent);
+    --h2-color: var(--interactive-accent);
+    --h3-color: var(--interactive-accent);
+    --h4-color: var(--interactive-accent);
+    --h5-color: var(--interactive-accent);
+    --h6-color: var(--interactive-accent);
+
+    --h2-weight: 700;
+    --h3-weight: 700;
+    --h4-weight: 700;
+    --h5-weight: 700;
+    --h6-weight: 700;
+
+    --h5-variant: small-caps;
+    --h6-variant: small-caps;
+
+    /* highlights */
+    --text-highlight-bg: var(--interactive-accent);
+    --text-highlight-fg: var(--black1);
+
+    --inline-title-color: var(--interactive-accent); /* title name color */
+
+    --bold-color: var(--interactive-accent); /* self explanatory */
+    --italic-color: var(--interactive-accent); /* self explanatory */
+
+    --checklist-done-color: rgba(var(--white5RGB), 0.5); 
+
+    /* tables */
+    --table-border-color: transparent;
+    --table-selection-border-width: 1px;
+    --table-selection-border-radius: 0px;
+
+    --text-selection: var(--black3); /* self explanatory */
+
+    /* code blocks */
+    --code-normal: var(--black1);
+    --code-background: var(--white1);
+    --code-comment: var(--text-faint);
+
+    /* icon colors */
+    --icon-color-hover: var(--interactive-accent); 
+    --icon-color-focused: var(--interactive-accent);
+
+    /* navigation page */
+    --nav-item-color-hover: var(--interactive-accent);
+    --nav-item-color-active: var(--interactive-accent);
+
+    /* callouts */
+    --callout-bug: var(--darkRedRGB);
+    --callout-error: var(--darkRedRGB);
+    --callout-fail: var(--darkRedRGB);
+    --callout-warning: var(--darkOrangeRGB);
+    --callout-question: var(--darkYellowRGB);
+    --callout-success: var(--darkGreenRGB);
+    --callout-default: var(--darkBlueRGB);
+    --callout-info: var(--darkBlueRGB);
+    --callout-todo: var(--darkBlueRGB);
+    --callout-note: var(--darkBlueRGB);
+    --callout-important: var(--darkCyanRGB);
+    --callout-summary: var(--darkCyanRGB);
+    --callout-tip: var(--darkCyanRGB);
+    --callout-example: var(--darkPurpleRGB);
+    --callout-quote: var(--black3RGB);
+
+    /* bullet and number lists */
+    --list-marker-color: rgba(var(--black3RGB), 0.5);
+
+    --caret-color: var(--interactive-accent); /* that blinking that show where you'll type */
+}
+
+/* highlight bg color fix */
+.cm-s-obsidian span.cm-formatting-highlight, .cm-s-obsidian span.cm-highlight {
+    color: var(--text-highlight-fg)
+}
+
+/* highlights in preview mode */
+.markdown-rendered mark {
+    color: var(--text-highlight-fg);
+}
+
+/* tables */
+table {
+    border-color: none !important;
+    border-collapse: collapse !important;
+}
+
+th {
+    font-weight: 600 !important;
+    border-bottom: 1px solid var(--black6) !important;
+    border-right: 1px solid var(--black6) !important;
+}
+
+th:last-child {
+    border-right: none !important;
+}
+
+td {
+    border: 1px solid var(--black5) !important;
+}
+
+tr:first-child td {
+    border-top: none !important;
+}
+
+tr:last-child td {
+    border-bottom: none !important;
+}
+
+tr td:first-child {
+    border-left: none !important;
+}
+
+tr td:last-child {
+    border-right: none !important;
+}
+
+.cm-html-embed td, .markdown-rendered td, .cm-html-embed th, .markdown-rendered th {
+    border: none;
+}
+
+/* search result text color fix */
+.search-result-file-matched-text {
+    color: var(--text-highlight-fg) !important;
+}
+
+/* checkbox */
+input[type=checkbox] {
+    border: 1px solid var(--checkbox-color);
+}
+
+input[type=checkbox]:checked {
+    background-color: var(--checkbox-color);
+    box-shadow: inset 0 0 0 2px var(--black1);
+}
+
+input[type=checkbox]:checked:after {
+    display: none;
+}
+
+/* bullet spacing fix */
+.cm-formatting-list {
+    padding-right: 4px !important;
+}
+
+/* embed title */
+
+.markdown-embed-title {
+    color: var(--yellow);
+    font-size: var(--h1-size);
+    font-weight: 700 !important;
+}
+
+/* divider */
+hr {
+    border-color: var(--white5);
+}
+
+/* strikethrough */
+.cm-strikethrough {
+	color: rgba(var(--white5RGB), 0.5);
+}   
+
+/* keyboard shortcuts */
+kbd {
+    color: var(--interactive-accent);
+}
+
+/* canvas buttons background fix*/
+.canvas-control-item {
+    background-color: var(--black1);
+}
+
+/* canvas text centering */
+.canvas-node {
+  text-align: center
+}
+
+/* fix sliders being invisible */
+input[type='range'] {
+    background-color: var(--black3);
+}
+
+/* rounded image corners */
+img {
+	border-radius: 10px;
+}

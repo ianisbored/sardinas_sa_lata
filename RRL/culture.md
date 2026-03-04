@@ -1,0 +1,25 @@
+# Eugenio, 2025
+- the jeepney is a  symbol of Filipino ingenuity and resilience
+- As a cornerstone of Philippine public transportation, they embody  the nation's creativity and communal spirit
+- the jeepney's legacy as a symbol of Filipino  resourcefulness stems from its post-war transformation.
+- As the "King of the Road," the  jeepney remains a globally recognized emblem of Filipino  culture, with the ongoing debate underscoring the need to  harmonize tradition and innovation while safeguarding this  vital aspect of Philippine heritage.
+- According to Sir LJ, this  jeepney is frequently showcased at cultural events as a  testament to Filipino pride and craftsmanship.
+
+# Bastos, 2008
+- propose that the ‘jeepney,’ besides its nature as a ‘material of culture,’ could be taken as an example of a field-like, pleromatic iconic sign that is enriched with information and values, since it is, first of all, a vehicle of affective irradiation. In this sense, it is a semiotic device which carries social suggestions and promotes personal actions and goals.
+- Another dimension that makes the authors’ approach interesting is the spotlight focused on street life. Jeepneys are a very familiar, important resource for many Filipinos in their everyday lives. Using them for transportation, Filipinos print on the jeepneys, literally, their own souls and many symbols about which they care.
+- the quasi-photographic depiction of jeepneys enables the reader’s introduction to the daily experience of poor Filipinos as if it was a study in visual anthropology. The images—a resource that psychology should explore much more—surpass common language and open new perspectives, recording symbols and revealing worlds where religious (Manila) or aesthetic (Davao) symbols prevail. The focus on jeepneys as cultural artifacts renders Filipinos’ cultural realities more universally readable, transcending specificities of verbal language schemes.
+- Filipinos’ notion of a self is more attached to the family than to the individual. The authors stress the insufficiency of the Philippines’ system of social protection, where the family is the main or the only source of security.
+- Güss and Tuason (2008) assume jeepneys as ‘a material of culture’: a ‘substantial and concrete artifact of Filipinos’ beliefs and values’ (p. 216); in that sense, they are representations or vestiges of the lived world. Such representations of the world are hardly neutral; they are vehicles of social suggestions which promote personal actions and goals.
+- As semiotic devices built by the drivers, jeepneys could be seen as a mediating resource with a potential for agency and novelty, interacting with the particular social and historical conditions prevailing in Davao or in Manila.
+- And, yes: jeepneys are, as the authors say, a glimpse into Filipinos’ culture.
+
+# Gustafson, 2012
+
+# Güss & Tuason, 2008
+- Jeepneys are the most common mode of transportation in the Philippines. Modeled after the American jeep left behind during World War II (Makalintal, 2003), they were creatively modified by Filipinos.
+- The jeepney can be seen as a human-made material object, a cultural artifact, because it reflects the beliefs and values operating at the time of its fabrication and decoration (Csikszentmihályi & Rochberg-Halton, 1981; Tilley, Keane, Kuechler, Rowlands, & Spyer, 2006).
+- Filipino values can be characterized as high collectivism (preference for acting as group members rather than as individuals), very high power distance (degree of acceptance of inequality), low uncertainty avoidance (preference for unstructured rather than structured situations), high masculinity (preference for values such as assertiveness and performance over those of warm personal relationships and service), and high short-term orientation (opposite of a long-term time orientation that stresses Confucian values like persistence).
+- Javidan and House (2001) characterized the Philippines as very high on humane orientation, meaning that Filipinos try to avoid conflict in conversations and are caring and supportive. Smith, Peterson, and Schwartz (2002) combined data from several value surveys and characterized Filipinos as high in power distance and conservatism, i.e., showing preference for the immediate circle over outsiders, maintaining the status quo, and loyalty towards one’s boss.
+- Similarly, Inglehart and Baker (2000), in a study of 65 countries, characterized individuals from the Philippines as having high traditional (religion, national pride, and obedience to authority) and survival (economic and physical security) values.
+- For Enriquez, the Filipino self is not an independent unity, but an interconnected unity with the selves of others or with the kapwa (the other). Thus, the Western concept of collectivism only captures a small aspect of kapwa. Among the more frequently mentioned values according to Enriquez (1977) and Madigan (1972) were pakikisama (favoring smooth interpersonal relations), utang na loob (honoring debt of gratitude), and bahala na (determination in the face of uncertainty).
