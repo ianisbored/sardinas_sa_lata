@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "2895f5d59645b720",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce25c2f197c3fc61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "915ba272aa45b810",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "0c1bde95aa46e2e0",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "45e7bef0982f649b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "PR 1/ACT. 1 - Nature and Inquiry of Research.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "ACT. 1 - Nature and Inquiry of Research"
+            }
+          },
+          {
+            "id": "c8c36da0c38e9e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PR 1/ACT. 1 - Nature and Inquiry of Research.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ACT. 1 - Nature and Inquiry of Research"
+            }
+          },
+          {
+            "id": "510e675ebbba7b49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "83a4bd6f8fa9d8d1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2194c8b87e8422db",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "01f507f5b89e5828",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "5a06cd434d95a902",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "tag:#tag",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "4c16c68992007b8f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "429dbca63fad66c2",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "446d1f9aff8dd304",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "ff0d2d9c3b8ce02c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "740f29c3c945cbd7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "ACT. 1 - Nature and Inquiry of Research.pdf",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "3d8d948475d21544",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "ACT. 1 - Nature and Inquiry of Research.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "d8b6ee46e93bd8c3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "ACT. 1 - Nature and Inquiry of Research.pdf",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "daily-notes:Open today's daily note": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "c8c36da0c38e9e4e",
+  "lastOpenFiles": [
+    "PR 1/ACT. 1 - Nature and Inquiry of Research.pdf",
+    "PR 1/ACT. 1 - Nature and Inquiry of Research.md",
+    "Bio 2/L1 - Reproductive System/IMG_20251112_142352.jpg",
+    "Bio 2/L1 - Reproductive System/IMG_20251112_141921.jpg",
+    "Bio 2/L1 - Reproductive System",
+    "HOPE 2",
+    "Statistics and Probability",
+    "DRRR",
+    "Calculus",
+    "Pagbasa",
+    "RW",
+    "PR 1",
+    "Bio 2",
+    "test.md",
+    "calend.md",
+    "Academics/eyy unang study ni pogi.md",
+    "Academics/Academics.md",
+    "2024-07-24.md",
+    "Alt/her..md",
+    "Alt/Creators.md",
+    "Academics/Untitled.md",
+    "Alt/C.AI.md",
+    "Wiki/Arts/Literature/Prompts for Persuasive Writing.md",
+    "Log/TODO.md",
+    "Academics/Untitled 1.md",
+    "Wiki/Self-improvement/Money Making Opportunities.md",
+    "Alt/EROS1.md",
+    "example.com.md",
+    "Wiki/Wiki.md",
+    "Academics/Untitled.sync-conflict-20240530-102338-4RXNVQW.canvas",
+    "Academics/Untitled.sync-conflict-20240530-102328-4RXNVQW.canvas",
+    "Academics/Untitled.canvas",
+    "Wiki/Untitled.png",
+    "Academics/Untitled.sync-conflict-20240530-101658-4RXNVQW.md"
+  ]
+}
