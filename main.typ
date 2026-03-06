@@ -360,6 +360,87 @@ Allegory – a story, image, or object that can be interpreted to reveal a hidde
 
 #set text(size: 12pt, weight: "bold")
 #align(center)[
+  CHAPTER 2 \
+  REVIEW OF RELATED LITERATURE AND STUDIES
+]
+
+#v(1cm)
+
+#counter(heading).update(0)
+
+#set heading(numbering: "I.")
+#show heading: it => {
+  set text(font: "Courier New", size: 12pt, weight: "bold")
+
+  if it.numbering != none {
+    grid(
+      columns: (1.5cm, 1fr),
+      numbering(it.numbering, ..counter(heading).at(it.location())),
+      it.body
+    )
+    h(1.65em)
+  } else {
+    it.body
+  }
+}
+
+= PUBLIC UTILITY VEHICLE MODERNIZATION PROGRAM (PUVMP)
+
+#show figure.caption: it => {
+  set text(size: 11pt, weight: "bold")
+  upper(it.supplement)
+  [ ]
+  it.counter.display()
+  [. ]
+  it.body
+}
+
+#set par(justify: true, first-line-indent: 1.5cm, leading: 1.65em, spacing: 1.65em)
+
+#show heading: set block(
+  above: 3.65em, 
+)
+
+#set text(font: "Courier New", size: 12pt, weight: "regular", hyphenate: false)
+
+According to Atos et al. (2025), the Public Utility Vehicle Modernization Program (PUVMP) was implemented to promote sustainable  development and reduce environmental issues. Jeepneys are an important historical and cultural symbol in the Philippines. Modernization jeepneys can improve safety, comfort, and transportation quality for commuters.
+
+As reported by Garcia et al. (2023), the jeepney phaseout creates operators financial burdens for drivers and operators because modern units are expensive. The program may lead to loss of livelihoods for many jeepney drivers. Modernization may also cause increased transportation  for commuters. This program may disadvantage low-income operators and marginalized. There is resistance from drivers, commuters and operators.
+
+Moreover, according to Gatarin et al. (2024) The Public Utility Vehicle Modernization Program (PUVMP) should be implemented. the implementation will be open to all jeepneys as the implementation will not only improve the public transportation, it will also reduce pollutions that will not harm both drivers and passengers.
+
+In addition, andalecio et al. (2020) mentioned in its study that the program of Public Utility Vehicle Modernization Program (PUVMP) was said to improve and reduce pollution—Drivers, passengers and other company producers state that not all have the same opinion about the program, as they have different opinions, needs and concerns about the modernization
+
+= JEEPNEY DRIVERS
+
+According to Adovas et al. (2024), most of the jeepney drivers are still struggling financially to provide for their daily necessities despite being the primary source of transportation for a lot of Filipinos. Many drivers pay for their jeepney fees, and the remaining budget is for their food and family needs. 
+
+Additionally, as mentioned in the study of Cunanan et al. (2024), jeepney drivers typically earned around ₱500 per day, while jeepney operators normally earn between ₱2,500 and ₱3,000. The high cost of modern jeepney exceeds the capacity on operators and drivers, placing a heavy financial burden on both of them. As a result, drivers are forced to work long hours just to keep up with expenses. 
+
+Rodriguez (2024) explained that in the modernization of jeepneys, the concerns of jeepney drivers are their salaries. They will no longer be paid a regular salary regardless of the number of passengers they serve each day, and they will need to abandon the "boundary system" they used to. Modernization can help lessen the careless driving and accidents on the road, however, it can result in high costs for drivers and operators which also affects the fares of commuters.
+
+In the study of Kecorius et al. (2017), in the Philippines, particularly in Manila, ultrafine soot particles or black carbon (BC) are present in the environment and it causes adverse respiratory and cardiovascular effects which increases the cases of asthma and premature deaths. This affects jeepney drivers and commuters the most, as they are exposed to polluted air daily.
+
+Furthermore, Seva et al. (2011), found that it is not only the passengers who can experience discomfort while riding a jeepney but also the jeepney drivers that were likely to endure discomfort, due to poor design of their workspace. Their current workspace did not go along with the body measurements of the drivers  and the drivers were subjected to awkward posture, due to the location of controls and task of collecting fares. 
+
+Beltran et al. (2024) emphasized that long working hours, low income, traffic congestion, challenging job environments, and road construction contribute to increased dangerous driving among jeepney drivers. Similarly, Cañada et al. (2021) stated that physical or mental exhaustion that resulted in fatigue can reduce attentiveness, poor judgment, and slower reaction times, which significantly increases risky driving practices. These challenges faced by the drivers are important to consider because they can affect passengers safety and comfort during daily commutes.
+
+= POLLUTION IN METRO MANILA
+
+The lived experience of commuters along the Gagalangin-Divisoria route is heavily shaped by two major environmental threats: air and noise pollution. According to Garcia et al. (2025), the old engines of traditional jeepneys release high amounts of Particulate Matter (PM2.5) and Black Carbon. These are tiny, toxic particles in the air that are small enough to be inhaled deep into the lungs, leading to serious breathing problems and long-term health risks. This explains why many commuters feel physical discomfort, coughing, or exhaustion after their trip.
+
+On top of the dirty air, Roxas et al. (2025) point out that commuters are also victims of noise pollution. In Metro Manila, traffic noise averages around 70.81 dB (decibels), which is a unit used to measure how loud a sound is. This level is high enough to cause permanent hearing damage and mental stress over time. This constant noise makes people more irritable and less productive. Together, these studies show that the "lived experience" of a commuter is a struggle against two major burdens: toxic air and deafening noise. To remedy this, the philippines government proposed a modernization program to mitigate these hazards, improving the overall lived experience and well being of the public commuting.
+
+#pagebreak()
+
+#set par(
+  first-line-indent: 0cm,
+  hanging-indent: 0cm,
+  leading: 0.65em,
+)
+
+#set text(size: 12pt, weight: "bold")
+#align(center)[
   CHAPTER 3 \
   RESEARCH METHODOLOGY
 ]
