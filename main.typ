@@ -219,7 +219,7 @@ According to the City Council of Manila, Gagalangin, Tondo, Manila is located on
 
 This study will focus on the allegory of the "Sardinas sa Lata" wherein the condition of commuters becomes a metaphor for sardine packaging. While the state recognizes jeepneys as Public Utility Vehicles (PUVs), units of transportation in primarily urban settings, passengers treat them as their lifeline to get to and from their livelihood and/or education. 
 
-This misunderstanding leads to further conflict for solutions in solving the "sardinas" problem many face, especially during rush hour (Çelebi & Imre, 2020). The researchers will interpret the dynamic lived passenger experiences into actionable suggestions, from ordinary commuters to the national level, that can be taken to improve mass jeepney transportation, starting from Gagalangin to improve 
+This misunderstanding leads to further conflict for solutions in solving the "sardinas" problem many face, especially during rush hour @Celebi2020. The researchers will interpret the dynamic lived passenger experiences into actionable suggestions, from ordinary commuters to the national level, that can be taken to improve mass jeepney transportation, starting from Gagalangin to improve 
 commuter experience, especially of students, women, children, and senior citizens. Most of the gathered related literature reviews the policies surrounding jeepneys, primarily modernization, but only a few analyze the commuters themselves and their experiences. This study will determine the daily routine of jeepney commuters in Gagalangin and document problems they face.
 
 #pagebreak()
