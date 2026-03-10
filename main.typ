@@ -183,7 +183,7 @@ This certificate hereby acknowledges that the research paper titled Sardinas sa 
   set par(leading: 0.65em) 
   table(
     columns: (1fr, 1fr), 
-    inset: (left: 8pt, right: 8pt, top: 8pt, bottom: 20pt),
+    inset: (left: 8pt, right: 8pt, top: 8pt, bottom: 18pt),
     stroke: 0pt,
     fill: none,
     align: (center, center),
@@ -676,12 +676,12 @@ After, collated codes with data supporting the theme in relation to literature w
 
 Lastly, the researchers will form the narrative report, relating final themes and codes to the objectives and related literature, and linking back to the research gap.
 
-#pagebreak()
-
 = ETHICAL CONSIDERATIONS
 
 Informed consent will be obtained by explaining the purpose of the interview, explain what the participants are expected to do and for the interviewers to follow the Data Privacy Act such as: confidentiality, voluntary participation, and data security
 
 The participants’ identities will be anonymous by using pseudonyms to keep their identities private and ensure that the participants’ personal information is protected. The participants have the right to agree or not agree to the interview and for the writers’ write the reports with honesty and accuracy.
+
+#pagebreak()
 
 #bibliography("bibliography.bib", style: "apa", title: align(center)[REFERENCES])
