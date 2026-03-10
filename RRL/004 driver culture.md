@@ -3,6 +3,9 @@
 - Jeepney drivers are not considered as regular employees and do not receive mandated government benefits – they earn revenues coming directly from passengers and practice a degree of flexibility within the jeepney drivers’ associations they belong to set their working hours.
 - Drivers’ expenditures therefore include vehicle rental (boundary), as well as diesel and other terminal fees. This jeepney system has many detrimental aspects it aggravates traffic congestion, consumes fuel inefficiently, contributes to the degradation of air quality, and poses major safety and health hazards (Mateo-Babiano et al., 2020)
 
+# Seva et al., 2011
+- Jeepney drivers in Metro Manila were likely to suffer from musculoskeletal discomfort, due to the poor design of their workspace and the system used for fare collection
+
 # Values
 ## Adovas et al., 2024
 - “Bahala na” is religious in nature. The study of Hong (*Hong, Y. (2020). Powerlessness and a social imaginary in the Philippines: A case study on Bahala na. The Asbury Journal, 75(1), 9. Retrieved from: [https://dx.doi.org/](https://dx.doi.org/10.7252/Journal.01.20)[10.7252/Journal.01.20](https://doi.org/10.7252%2FJournal.01.20) 20S.08. Lagmay, A.V. (1993). Bahaha Na!. Retrieved from [https://www.scribd.com/document/72921](https://www.scribd.com/document/72921) 9895/Lagmay-1993*) emphasizes that Bahala na is deeply rooted in Filipino cosmological belief or spirituality, which was influenced by Animism, Hinduism, Islam, and Christianity. 
