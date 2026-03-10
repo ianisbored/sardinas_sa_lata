@@ -77,7 +77,7 @@ background: {
     #align(center)[
       #set par(leading: 0.5em)
       #text(weight: "bold", size: 13.5pt, strong("SARDINAS SA LATA: THE LIVED EXPERIENCES OF JEEPNEY COMMUTERS ALONG THE GAGALANGIN-DIVISORIA ROUTE"))
-      ],
+      ]
   ],
 
   [], 
@@ -156,6 +156,91 @@ background: {
 #set par(leading: 0.65em)
 
 #set text(size: 12pt, weight: "bold")
+
+/*
+#align(center)[ACKNOWLEDGEMENT]
+
+#v(1cm)
+
+ACKNOWLEDGEMENT SHOULD CONTAIN YOUR MESSAGE TO YOUR GROUP MATES, PEERS, CLASSMATES, RESEARCH ADVISER, AND TO THE ADMINISTRATORS OF THE SCHOOL.
+
+#pagebreak()
+
+*/
+
+#align(center)[CERTIFICATE OF ORIGINALITY]
+
+#v(1cm)
+
+#set par(justify: true, first-line-indent: 1.5cm, leading: 1.65em, spacing: 1.65em)
+#set text(font: "Courier New", size: 12pt, weight: "regular", hyphenate: false)
+
+This certificate hereby acknowledges that the research paper titled Sardinas sa Lata: The Lived Experiences of Jeepney Commuters along the Gagalangin-Divisoria Route stands as a testament to originality, reflecting the innovative exploration and unique insights brought forth by its creators. Through diligent investigation and creative endeavor, the authors have demonstrated a commitment to advancing knowledge within their field, presenting fresh perspectives and contributing to the academic discourse. This work exemplifies the spirit of originality, encapsulating the intellectual curiosity and ingenuity necessary for scholarly inquiry.
+
+#v(1cm)
+
+#block({
+  set par(leading: 0.65em) 
+  table(
+    columns: (1fr, 1fr), 
+    inset: (left: 8pt, right: 8pt, top: 8pt, bottom: 20pt),
+    stroke: 0pt,
+    fill: none,
+    align: (center, center),
+  
+    [#underline(strong(secrets.brunoMars)) \ #strong("RESEARCHER 1")], 
+    [#underline(strong(secrets.nutriboostDunkins)) \ #strong("RESEARCHER 2")],
+
+    [#underline(strong(secrets.rapunzel)) \ #strong("RESEARCHER 3")], 
+    [#underline(strong(secrets.sebaceousGland)) \ #strong("RESEARCHER 4")],
+
+    [#underline(strong(secrets.ariTech)) \ #strong("RESEARCHER 5")],
+    [#underline(strong(secrets.tathrianaRockstar)) \ #strong("RESEARCHER 6")],
+
+    table.cell(colspan: 2)[#underline(strong(secrets.ser)) \ #strong("RESEARCH ADVISER")]
+  )
+})
+
+/*
+
+#pagebreak()
+
+#set par(justify: true, first-line-indent: 0pt, leading: 0.65em, spacing: 1.65em)
+#set text(size: 12pt, weight: "bold")
+
+#align(center)[ABSTRACT]
+
+Research Title: 
+
+Researcher/s: 	 
+
+Track/Strand: 	
+
+School: 		 
+
+Year: 			
+
+Research Adviser: #secrets.ser
+
+#pagebreak()
+
+#align(center)[TABLE OF CONTENTS]
+
+#pagebreak()
+
+#align(center)[LIST OF FIGURES]
+
+#pagebreak()
+
+#align(center)[LIST OF TABLES]
+
+*/
+
+#pagebreak()
+
+#set par(leading: 0.65em)
+#set text(size: 12pt, weight: "bold")
+
 #align(center)[
   CHAPTER 1 \
   THE PROBLEM AND ITS BACKGROUND
@@ -286,7 +371,7 @@ Lastly, after organizing the data, the response and observations are examined to
 
 Overall, this conceptual framework generates a understanding of how environmental factors, traffic conditions, and commuting situation shape the live experience of passengers and drivers along the Gagalangin-Divisoria route.
 
-#pagebreak()
+#v(1cm)
 
 = SIGNIFICANCE OF THE STUDY
 
@@ -294,7 +379,7 @@ This research will provide insights and suggestions to mitigate traffic, develop
 
 These findings will also help LGUs (Local Government Units) adapt routes and environments to meet local commuter demand, benefiting commuters, especially students and senior citizens.
 
-#pagebreak()
+#v(1cm)
 
 = SCOPE AND DELIMITATIONS
 
@@ -487,15 +572,13 @@ On top of the dirty air, Roxas et al. (2025) point out that commuters are also v
 #set enum(indent: 1.5cm, body-indent: 1.65em, numbering: "1.")
 
 #show enum: it => {
-  v(1.65em)
+  v(0.65em)
   it
 }
 
 This study will employ a phenomenological research design, a qualitative approach that explores the lived experiences of students and commuters along the Gagalangin–Divisoria jeepney route. Phenomenology is appropriate because it allows an in-depth understanding of participants’ perspectives, emotions, beliefs, feelings, and challenges, particularly regarding traffic conditions, price increases, and how these factors personally impact them. This design focuses on how individuals interpret and respond to their everyday commuting experiences.
 
 The participants will their perspectives, emotions, and challenges, particularly regarding crowdedness, lack of space, weather conditions, traffic congestion, and higher fares, and how these factors affected their comfort and safety while riding jeepneys (Ganituen et al. n.d.,). For the longest time, utilizing public transportation has been a major problem of the country due to various factors that influence mobility such as lack of regulations, more long waits, traffic delays, and mobility struggles that are usually expected by local passengers. (Francisco et al., 2025)
-
-#pagebreak()
 
 = RESEARCH LOCALE
 
@@ -505,8 +588,6 @@ The interviews will be conducted along Juan Luna Street The researchers will arr
   image("map.jpg"),
   caption: [RESEARCH LOCALE OF THE STUDY],
 ) <locale>
-
-#pagebreak()
 
 = RESEARCH PARTICIPANTS AND SAMPLING TECHNIQUE
 
@@ -527,8 +608,6 @@ Lastly, they must be willing to share their commuting experience in an interview
 This study will utilize a hybrid data collection workflow where observations will occur alongside interviews (E. Baltazar et al., 2024). This is to conduct triangulation of the gathered data, relating both spoken and non-spoken language to be analyzed. The interview guide consists of open-ended questions that explore the commuters' experiences and perceptions of jeepneys in Gagalangin alongside key non-verbal markers an interviewer is expected to catch to check for dissonance, inconsistency, etc. 
 
 Sample questions will include:
-
-#pagebreak()
 
 #block({
   set par(leading: 0.65em) 
@@ -575,8 +654,6 @@ Sample questions will include:
   )
 })
 
-#pagebreak()
-
 = DATA COLLECTION PROCEDURE
 
 The data collection process consists of three phases:
@@ -585,11 +662,9 @@ The data collection process consists of three phases:
 2.	 Data collection was conducted through face-to-face interviews, where each participant was interviewed individually for a maximum of 35-45 minutes. The interviews took place in selected locations around Gagalangin, Tondo district only, and the sessions were video recorded with their permission.
 3.	 The video recordings serve as the primary means of validation, with audio recordings as the secondary backup, ensuring the accuracy of data transcription and maintaining the integrity of the information gathered throughout the interview process.
 
-#pagebreak()
+#v(0.5cm)
 
-#h(1.5cm) For this study, participants will be selected through purposive sampling, focusing on students and commuters as the primary target groups. Data collection will conducted through face-to-face interviews, where each participant is to be interviewed individually for a maximum of 35-45 minutes. The interviews will take place in selected locations around Gagalangin, Tondo district only, and the sessions will be video recorded with their permission. The video recordings serve as the primary means of validation, with audio recordings as the secondary backup, ensuring the accuracy of data transcription and maintaining the integrity of the information gathered throughout the interview process.
-
-#pagebreak()
+#h(1.5cm) For this study, participants will be selected through purposive sampling, focusing on students and commuters. Data collection will conducted through individual face-to-face interviews for a maximum of 35-45 minutes. The interviews will take place in selected locations around Gagalangin, Tondo district only, and the sessions will be video recorded with their permission. The video recordings serve as the primary means of validation, with audio recordings as the secondary backup, ensuring the accuracy of data transcription and maintaining information integrity gathered.
 
 = DATA ANALYSIS PROCEDURE
 
@@ -609,4 +684,4 @@ Informed consent will be obtained by explaining the purpose of the interview, ex
 
 The participants’ identities will be anonymous by using pseudonyms to keep their identities private and ensure that the participants’ personal information is protected. The participants have the right to agree or not agree to the interview and for the writers’ write the reports with honesty and accuracy.
 
-#bibliography("bibliography.bib", style: "apa")
+#bibliography("bibliography.bib", style: "apa", title: align(center)[REFERENCES])

@@ -1,0 +1,11 @@
+# Güss & Tuason, 2008
+## Poverty
+- Regarding life problems, both Manila and Davao drivers identified financial (Manila 56%, Davao 40%), personal (Manila 14%, Davao 9%), and family problems (Manila 9%, Davao 21%), with both groups identifying financial issues as their biggest concern. Financial problems included not having enough money to pay for the education of their children, buy food, pay rent on their homes, and for needed repairs to the jeepney.
+- Both Manila and Davao drivers generally identified one personal life problem, mainly health issues such as back pain or persistent coughing.
+- Manila drivers were more expressive of personal concerns: ‘I worry about temptations of faith,’ ‘My hotheadedness is my concern.’
+- The driver would like to earn more because he would like to pay for his children’s education, provide for enough food, and pay the rent. Manila drivers, in contrast, more frequently expressed financial problems. Manila is the center of the Philippines in terms of government, trade, economics, and commerce, and it is undeniable that people move to Manila to work on the supposition that it offers more job opportunities. 
+- Thus, financial concerns are at the fore. The data also show that Manila drivers described more problems plausibly resulting from financial stress, for example health and fatigue.
+- Worries about work and conflicts with others are often due to money. The focus on financial problems substantiates Inglehart and Baker’s research (2000), characterizing Filipinos as high in survival values. To the Filipino driver, being able to survive includes pagsisikap (perseverance), tiyaga (hard work), and the courage to continue to work and survive impoverished conditions. Drivers frequently expressed the constant need to earn money; determination to work long hours; and the boldness and courage, bahala na, to put food on the table in any way possible.
+
+## Transport Poverty
+- The jeepney drivers reported work-related issues: bad road conditions (e.g., traffic congestion, rerouting, weather conditions), people concerns (e.g., fights with other drivers, police enforcers, non-paying passengers, unfriendly passengers), jeepney problems (e.g., motor troubles, overheating), and lack of money.
