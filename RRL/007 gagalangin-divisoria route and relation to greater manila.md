@@ -1,0 +1,1 @@
+The Gagalangin-Divisoria route, also known as Juan Luna St. connects 

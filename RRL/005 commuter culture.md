@@ -1,6 +1,4 @@
 # Definiton
-## Menez, 1998
-- The majority of commuters—students, laborers, and office workers—depend on these low-fare vehicles which are easily available on nearly every street corner. 
 ## Cabilin, 2025
 - The jeepney is a part of the lives of us Filipinos. A passenger may use it their entire life as transportation for going to and coming home from work or school.
 - In the jeepney, the Filipino trait of *pakikipagkapwa* (relating to others) is prominent, which is considered the core or most important value among Filipinos from the perspective of Filipino Psychology (*Sikolohiyang Pilipino*). This field was pioneered by Virgilio Enriquez in the early 1970s to advance the study of psychology rooted in Filipino experience, thought, and orientation, amid a landscape dominated by Western perspectives in the country (Enriquez, 2015).
@@ -13,6 +11,9 @@
 - In such examples, it is clearly seen how understanding is natural and does not often need to be reminded before it is shown and felt. In the jeepney, Filipino values can be illustrated through an understanding of the concept of _pakikipagkapwa-tao_.
 - According to Timbreza, from an interview by Villejo and Liwanag (2019): "Through reflection on the negative behaviors of Filipinos, we also come to understand the Filipino character. We are able to bring out and make understood the various behaviors of Filipinos, whether positive or negative—the personhood of the people is opened up. Weaknesses and shortcomings are shown not to slander others, but to help understand these weaknesses and shortcomings as part of being human, and to strengthen and develop the positive and good qualities that need to be reinforced." This point was valued in the study in order to fully express both the positive and negative behaviors of passengers inside the jeepney, which further highlighted the formation of _kapwa_ among fellow jeepney passengers.
 - According to Matienzo (2021), this experience reflects social relationships, the value of humanity, and lessons that are unique only to this mode of transportation. The jeepney is a vehicle through which one can personally witness social connections—not only between a driver and his fellow drivers, or between the driver and the passenger, but especially between a passenger and his fellow passengers. People are the very center of this study because, whether verbal or non-verbal, one can trace in a person the concrete world they feel in relation to their fellow human beings.
+## Menez, 1998
+- The majority of commuters—students, laborers, and office workers—depend on these low-fare vehicles which are easily available on nearly every street corner. 
+
 
 # +Learning from Others (Parrucho, 2023)
 - The first sub-theme narrated the lesson that commuters learned from their fellow passengers while riding in a Jeepney. Commuters are constantly confronted with various types of people and scenarios that they find most helpful in remaining open-minded and considerate.	
@@ -80,7 +81,6 @@
 # -Pagkagalit at Pagdadabog (Cabilin, 2025)
 - Some passengers become visibly angry when their signal to stop is not acted upon immediately, especially when the jeepney has already passed their intended drop-off point. Drivers sometimes retaliate against short-tempered passengers by dropping them off in an inconvenient location, or simply stopping wherever the signal reached them without properly pulling to the side. 
 - The potential accident this poses for their passengers is of no concern to them. The driver's irritation or annoyance can also be read from his expression reflected in the mirror when a passenger is slow to alight. On the other hand, when the driver does not hear the _pára_ signal right away, the passenger responds by knocking aggressively on the roof and repeating _pára_ loudly. These situations are frequently observed among drivers and passengers with short tempers, resulting in visible frustration and outbursts on both sides.
-
 # -Tsismisan (Cabilin, 2025)
 - Passengers often bring the stories of their daily lives into the jeepney. Based on one respondent's personal experience, he and his classmate once gossiped about another classmate inside the jeepney, not realizing that the person they were talking about was seated right at the front near the driver.
 - Adding to the gossip is the loud volume of conversation that disrupts the silence or the brief rest of other passengers during the ride. The driver's short exchanges with fellow drivers when they pull up alongside each other in traffic — about scarce passengers, enforcers on patrol, traffic conditions, and passengers asking for change — also prove disruptive to those riding inside.
@@ -106,6 +106,7 @@
 # -Pakutuban (Cabilin, 2025)
 - The respondents mentioned that a certain mix of anxiety builds up inside them, making it impossible to avoid being watchful of their surroundings — particularly at night when the streets are sparse and they are riding the jeepney.
 - This stems from what they see in the news or from scenes depicted in films, such as holdups. The teenage respondents clarified that this is not a constant state of fear, but that it is better to remain vigilant and always prepared for unexpected events of this kind. They further noted that in today's times, it is difficult to judge who among the people sharing the jeepney may have ill intentions — as reports show that children, the elderly, women, and men alike have all fallen victim to such incidents inside the jeepney.
+
 
 # Values
 ## Bahala Na
