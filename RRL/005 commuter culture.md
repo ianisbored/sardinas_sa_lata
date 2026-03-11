@@ -87,12 +87,18 @@
 - Passengers often bring the stories of their daily lives into the jeepney. Based on one respondent's personal experience, he and his classmate once gossiped about another classmate inside the jeepney, not realizing that the person they were talking about was seated right at the front near the driver.
 - Adding to the gossip is the loud volume of conversation that disrupts the silence or the brief rest of other passengers during the ride. The driver's short exchanges with fellow drivers when they pull up alongside each other in traffic — about scarce passengers, enforcers on patrol, traffic conditions, and passengers asking for change — also prove disruptive to those riding inside.
 
-# -Siksikan at Singitan (Cabilin, 2025)
+# -Siksikan at Singitan
+## Cabilin, 2025
 - It is a common scene at the jeepney terminal for the barker to urge passengers to move closer together, forcing what is meant to be seating for eight to become nine or ten — especially if the passengers on the edges are on the slimmer side.
 - For drivers, this means additional income, especially when they are queued up and paying their _butaw_, even if it means their passengers are packed together like sardines in a can. This is a normal sight inside the jeepney — passengers crammed tightly on the seats. Because of this, some passengers will lean slightly outward to make proper room for the person seated beside them.
 - Discounts are unheard of inside the jeepney even when only half the seats are filled. When you are in a hurry, you no longer care whether you are seated comfortably or not. There are also many who take advantage of the situation inside the jeepney — exploiting the tight and pressing circumstances that passengers find themselves in.
 - In the cramped and competitive scramble for seats, the stronger passengers take advantage of the weaker ones. Those with larger and stronger bodies, typically men, are quick to secure their seats.
 - Senior citizens, persons with disabilities, pregnant women, parents carrying infants or minding young children, and students who do not know how to push their way through are most often left at a disadvantage.
+## McFarlane et al., 2025
+- "You sit very tightly with others because many people will fight for that seat, or just to be in that jeep."
+- "Sometimes people will push, and will use their body to outpace you [balyahan]. So, it is difficult to commute. In this place, people are not sensitive to your age. They all want to board first. This is especially true in going to work"
+- For one young woman, overcrowded jeepneys make it especially difficult to get on and off with children or bags,
+- the tight confines of the vehicle can sometimes lead to harassment. One said that she and women she knows have had to learn “how to protect themselves” from the harassment experienced by many women in public transport in Manila, sometimes reported in media and research (Ceccato & Loukaitou-Sideris, 2022; Mateo Babiano et al., 2020).
 
 # -Budol (Cabilin, 2025)
 - Children who beg also board the jeepney, carrying shoe-cleaning materials, then ask for alms in exchange for a brief and perfunctory pretense of wiping passengers' shoes.
